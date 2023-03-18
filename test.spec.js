@@ -2,6 +2,7 @@
  * --- TESTER ---
  * 
  * Använder enhetstest för att det är bara en funktion som ska testas
+ * Testar att "incorrect" "correct" "misplaced" placeras korrekt
  * Testar att funktionen funkar med både lowercase and uppercase
  * Längden på gissningen och det korrekta ordet måste vara lika långa
  * Skickar bara en input
